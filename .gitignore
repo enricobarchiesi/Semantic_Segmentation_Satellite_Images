@@ -1,0 +1,11 @@
+*.tif
+/inputs
+/datasets
+*.docx
+/legends
+/trained_models
+/segmentation
+/outputs
+/__pycache__
+example.log
+*.DS_Store
